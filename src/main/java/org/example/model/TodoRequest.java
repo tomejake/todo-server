@@ -10,5 +10,5 @@ import lombok.NoArgsConstructor;
 public class TodoRequest {
     private String title;
     private Long order;
-    private boolean completed;
+    private Boolean completed;
 }
